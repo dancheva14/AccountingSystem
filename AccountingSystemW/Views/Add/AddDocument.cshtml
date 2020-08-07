@@ -1,0 +1,14 @@
+﻿@model MVC.Series.ViewModel.HomeViewModel
+@{
+    ViewBag.Title = "AddDocument";
+}
+
+<h2>AddDocument</h2>
+
+<h4>New Books</h4>
+<div id="newBooks">
+    @for (int i = 0; i < @Model.NewBooks.Count(); i++)
+    {
+        @Html.EditorFor(model => @Model.NewBooks[i])
+    }
+</div>

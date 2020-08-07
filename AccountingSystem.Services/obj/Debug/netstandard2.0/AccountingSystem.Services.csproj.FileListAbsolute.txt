@@ -1,0 +1,6 @@
+C:\Users\vivian\source\repos\AccountingSystemW\AccountingSystem.Services\bin\Debug\netstandard2.0\AccountingSystem.Services.deps.json
+C:\Users\vivian\source\repos\AccountingSystemW\AccountingSystem.Services\bin\Debug\netstandard2.0\AccountingSystem.Services.dll
+C:\Users\vivian\source\repos\AccountingSystemW\AccountingSystem.Services\obj\Debug\netstandard2.0\AccountingSystem.Services.csprojAssemblyReference.cache
+C:\Users\vivian\source\repos\AccountingSystemW\AccountingSystem.Services\obj\Debug\netstandard2.0\AccountingSystem.Services.csproj.CoreCompileInputs.cache
+C:\Users\vivian\source\repos\AccountingSystemW\AccountingSystem.Services\obj\Debug\netstandard2.0\AccountingSystem.Services.AssemblyInfoInputs.cache
+C:\Users\vivian\source\repos\AccountingSystemW\AccountingSystem.Services\obj\Debug\netstandard2.0\AccountingSystem.Services.AssemblyInfo.cs
